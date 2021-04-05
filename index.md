@@ -3,7 +3,15 @@
 
 ### About Me
 
-![me](assets/square.jpeg)
+<style>
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+
+</style>
+
+![me](assets/square.jpeg#thumbnail)
 
 I am a Full Stack Engineer with experience using PostgreSQL, Java, Javascript, Angular, Python, and C++. I enjoy making software tools to help people to solve problems.
 
