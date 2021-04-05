@@ -5,8 +5,8 @@
 
 <style>
 img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
+   width:200px;
+   height:200px;
 }
 
 </style>
