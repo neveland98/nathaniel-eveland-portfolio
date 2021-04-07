@@ -1,7 +1,12 @@
 # Nathaniel Eveland
+
+***
+
 ## Full Stack Software Engineer
 
 ### About Me
+
+***
 
 <style>
 img[src*="#thumbnail"] {
@@ -19,11 +24,15 @@ When I am not programming, I enjoy playing video games, practicing typing, liste
 
 ### Education
 
+***
+
 *B.S., Computer Science,* University of Houston, Houston, TX
 
 [Certified Full-Stack Developer, Talent Path](https://www.youracclaim.com/badges/ce9e1a44-d169-4373-8eff-9362c3140e29?source=linked_in_profile)
 
 ### Work Experience
+
+***
 
 **Technology Industry Experience:** &lt;1 Year
 
@@ -42,6 +51,8 @@ Currently Working as a Full Stack Software Engineer for Talent Path. Responsible
 - Customer Service: In this industry, I learned how to engage with customers and determine their needs and how to meet them. 
 
 ### Projects:
+
+***
 
 **These are my most recent projects.**
 
@@ -70,6 +81,9 @@ The front end also displays a beautiful Tableau dashboard which shows trends in 
 This is a full-stack application used to manage a personal budget. It was built using a PostgreSQL database, a Java SpringBoot back end with Spring Security and a REST API, and an Angular front end. It features a fully functional login system which was implemented using Spring Security. Authenticated users can view their transactions, add new transactions, view their transaction history, view their transaction totals for the month and for all time, and create and edit categories which are associated with the transactions that they create.
 
 ### Skills and Strengths
+
+***
+
 #### Technologies: 
 
 - Java
@@ -93,5 +107,7 @@ This is a full-stack application used to manage a personal budget. It was built 
 - Customer Service
 
 ### Contact:
+
+***
 
 [Personal Email](mailto:nevel27043@gmail.com)  [Work Email](mailto:neveland@talentpath.com)  [LinkedIn](https://www.linkedin.com/in/nathaniel-eveland)  [GitHub](https://github.com/neveland98)
