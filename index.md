@@ -110,4 +110,4 @@ This is a full-stack application used to manage a personal budget. It was built 
 
 ***
 
-[Personal Email](mailto:nevel27043@gmail.com)  [Work Email](mailto:neveland@talentpath.com)  [LinkedIn](https://www.linkedin.com/in/nathaniel-eveland)  [GitHub](https://github.com/neveland98)
+[nevel27043@gmail.com](mailto:nevel27043@gmail.com)  [nathaniel.eveland@talentpath.com](mailto:neveland@talentpath.com)  [LinkedIn](https://www.linkedin.com/in/nathaniel-eveland)  [GitHub](https://github.com/neveland98)
